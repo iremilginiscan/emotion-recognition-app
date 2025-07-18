@@ -21,7 +21,7 @@ OpenAI Whisper: Sesli duygu analizi (isteğe bağlı)
 HuggingFace Modelleri: Multimodal analiz imkânı
 
 Proje Aşamaları:
-Analiz ve Tasarım
-MVP Geliştirme
-API Entegrasyonu
+Analiz ve Tasarım,
+MVP Geliştirme,
+API Entegrasyonu,
 Test ve Yayınlama
